@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
-<h3 align="center">I'm a computer engineering student at 4.class. I' interested in back end development especially with Java and Spring technologies.</h3>
+<h3 align="center">I'm a computer engineering student at 4.class. I'm interested in back end development especially with Java and Spring technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgadmp&label=Profile%20views&color=0e75b6&style=flat" alt="tolgadmp" /> </p>
 
