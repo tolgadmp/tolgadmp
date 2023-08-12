@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a software developer.
-
+#
 [![](https://visitcount.itsvg.in/api?id=tolgadmp&icon=2&color=9)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
